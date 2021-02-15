@@ -1,9 +1,9 @@
-# Lab 10 - Malicious File Uploads
+# Lab 8 - Malicious File Uploads
 
 ## Building The Lab
 
-* git clone <a href="https://github.com/prog38263/lab10">https://github.com/prog38263/lab10</a>
-* <code>cd lab10/code</code>
+* git clone <a href="https://github.com/PROG38263-W21/Lab8.git">https://github.com/PROG38263-W21/Lab8.git</a>
+* <code>cd Lab8/code</code>
 * <code>sudo chown www-data files</code>
 * <code>cd ../</code>
 * <code>docker-compose build && docker-compose up</code>
@@ -18,5 +18,4 @@
 
 ## Fixing
 
-* Modify the program to prevent malicious file uploads by enforcing more rigerous validation.
-
+* Modify the program to prevent malicious file uploads by enforcing more rigorous validation.
