@@ -1,6 +1,6 @@
 # Lab 8 - Malicious File Uploads
 
-## Building The Lab
+## Building the Lab
 
 * git clone <a href="https://github.com/PROG38263-W21/Lab8.git">https://github.com/PROG38263-W21/Lab8.git</a>
 * <code>cd Lab8/code</code>
